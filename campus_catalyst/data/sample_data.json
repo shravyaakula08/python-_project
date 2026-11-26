@@ -1,0 +1,414 @@
+{
+  "columns": [
+    "student_id",
+    "name",
+    "department",
+    "age",
+    "marks",
+    "attendance",
+    "enrollment_date",
+    "email"
+  ],
+  "records": [
+    {
+      "student_id": "S001",
+      "name": "Aarav Sharma",
+      "department": "Computer Science",
+      "age": "19",
+      "marks": "78.5",
+      "attendance": "92",
+      "enrollment_date": "2022-08-01",
+      "email": "aarav.sharma@campus.edu"
+    },
+    {
+      "student_id": "S002",
+      "name": "Diya Patel",
+      "department": "Electronics",
+      "age": "20",
+      "marks": "85",
+      "attendance": "88.5",
+      "enrollment_date": "2021-08-02",
+      "email": "diya.patel@campus.edu"
+    },
+    {
+      "student_id": "S003",
+      "name": "Rohan Mehta",
+      "department": "Mechanical",
+      "age": "21",
+      "marks": "67.25",
+      "attendance": "75",
+      "enrollment_date": "2020-08-03",
+      "email": "rohan.mehta@campus.edu"
+    },
+    {
+      "student_id": "S004",
+      "name": "Ananya Iyer",
+      "department": "Civil",
+      "age": "18",
+      "marks": "91",
+      "attendance": "96",
+      "enrollment_date": "2023-08-01",
+      "email": "ananya.iyer@campus.edu"
+    },
+    {
+      "student_id": "S005",
+      "name": "Kabir Singh",
+      "department": "Biotechnology",
+      "age": "22",
+      "marks": "58",
+      "attendance": "70",
+      "enrollment_date": "2019-08-05",
+      "email": "kabir.singh@campus.edu"
+    },
+    {
+      "student_id": "S006",
+      "name": "Meera Nair",
+      "department": "Computer Science",
+      "age": "16",
+      "marks": "88",
+      "attendance": "94",
+      "enrollment_date": "2024-08-01",
+      "email": "meera.nair@campus.edu"
+    },
+    {
+      "student_id": "S007",
+      "name": "Vikram Rao",
+      "department": "Electronics",
+      "age": "",
+      "marks": "72",
+      "attendance": "81",
+      "enrollment_date": "2022-08-03",
+      "email": "vikram.rao@campus.edu"
+    },
+    {
+      "student_id": "S008",
+      "name": "Sneha Reddy",
+      "department": "Civil",
+      "age": "23",
+      "marks": "100",
+      "attendance": "100",
+      "enrollment_date": "2020-08-04",
+      "email": "sneha.reddy@campus.edu"
+    },
+    {
+      "student_id": "S009",
+      "name": "Arjun Das",
+      "department": "Mechanical",
+      "age": "60",
+      "marks": "45",
+      "attendance": "60",
+      "enrollment_date": "2018-08-06",
+      "email": "arjun.das@campus.edu"
+    },
+    {
+      "student_id": "S010",
+      "name": "Isha Gupta",
+      "department": "Biotechnology",
+      "age": "19",
+      "marks": "0",
+      "attendance": "0",
+      "enrollment_date": "2023-08-07",
+      "email": "isha.gupta@campus.edu"
+    },
+    {
+      "student_id": "S011",
+      "name": "Neha Kulkarni",
+      "department": "comp sci",
+      "age": "20",
+      "marks": "81",
+      "attendance": "90",
+      "enrollment_date": "2021-08-09",
+      "email": "neha.kulkarni@campus.edu"
+    },
+    {
+      "student_id": "S012",
+      "name": "Aditya Joshi",
+      "department": "Computer Science",
+      "age": "21",
+      "marks": "N/A",
+      "attendance": "85",
+      "enrollment_date": "2020-08-10",
+      "email": "aditya.joshi@campus.edu"
+    },
+    {
+      "student_id": "S013",
+      "name": "Pooja Menon",
+      "department": "CS",
+      "age": "19",
+      "marks": "76",
+      "attendance": "89",
+      "enrollment_date": "2022-08-11",
+      "email": "pooja.menon@campus.edu"
+    },
+    {
+      "student_id": "S014",
+      "name": "Karan Malhotra",
+      "department": "Electronics ",
+      "age": "22",
+      "marks": "69",
+      "attendance": "77",
+      "enrollment_date": "2019-08-12",
+      "email": "karan.malhotra@campus.edu"
+    },
+    {
+      "student_id": "S015",
+      "name": "Tanvi Desai",
+      "department": "ELECTRONICS",
+      "age": "20",
+      "marks": "83",
+      "attendance": "91",
+      "enrollment_date": "2021-08-13",
+      "email": "tanvi.desai@campus.edu"
+    },
+    {
+      "student_id": "S016",
+      "name": "Siddharth Bose",
+      "department": "Mechancial",
+      "age": "21",
+      "marks": "62",
+      "attendance": "73",
+      "enrollment_date": "2020-08-14",
+      "email": "siddharth.bose@campus.edu"
+    },
+    {
+      "student_id": "S017",
+      "name": "Riya Kapoor",
+      "department": "Civil",
+      "age": "twenty",
+      "marks": "74",
+      "attendance": "84",
+      "enrollment_date": "2021-08-15",
+      "email": "riya.kapoor@campus.edu"
+    },
+    {
+      "student_id": "S018",
+      "name": "Harsh Vardhan",
+      "department": "Biotechnology",
+      "age": "0",
+      "marks": "66",
+      "attendance": "79",
+      "enrollment_date": "2022-08-16",
+      "email": "harsh.vardhan@campus.edu"
+    },
+    {
+      "student_id": "S019",
+      "name": "Lakshmi Narayan",
+      "department": "Computer Science",
+      "age": "24",
+      "marks": "89",
+      "attendance": "93",
+      "enrollment_date": "2019-08-17",
+      "email": ""
+    },
+    {
+      "student_id": "S020",
+      "name": "Manish Tiwari",
+      "department": "Mechanical",
+      "age": "150",
+      "marks": "71",
+      "attendance": "80",
+      "enrollment_date": "2018-08-18",
+      "email": "manish.tiwari@campus.edu"
+    },
+    {
+      "student_id": "S021",
+      "name": "Shruti Banerjee",
+      "department": "Civil",
+      "age": "20",
+      "marks": "105",
+      "attendance": "87",
+      "enrollment_date": "2021-08-19",
+      "email": "shruti.banerjee@campus.edu"
+    },
+    {
+      "student_id": "S022",
+      "name": "Yash Chopra",
+      "department": "Electronics",
+      "age": "21",
+      "marks": "-5",
+      "attendance": "82",
+      "enrollment_date": "2020-08-20",
+      "email": "yash.chopra@campus.edu"
+    },
+    {
+      "student_id": "S023",
+      "name": "Nandini Pillai",
+      "department": "",
+      "age": "19",
+      "marks": "77",
+      "attendance": "86",
+      "enrollment_date": "2023-08-21",
+      "email": "nandini.pillai@campus.edu"
+    },
+    {
+      "student_id": "S024",
+      "name": "Rahul Verma",
+      "department": "Computer Science",
+      "age": "22",
+      "marks": "64",
+      "attendance": "92%",
+      "enrollment_date": "2019-08-22",
+      "email": "rahul.verma@"
+    },
+    {
+      "student_id": "S025",
+      "name": "Kavya Hegde",
+      "department": "Biotechnology",
+      "age": "20",
+      "marks": "79",
+      "attendance": "101",
+      "enrollment_date": "2021-08-23",
+      "email": "kavya.hegde@campus.edu"
+    },
+    {
+      "student_id": "S026",
+      "name": "Dev Anand",
+      "department": "Mechanical",
+      "age": "23",
+      "marks": "57",
+      "attendance": "68",
+      "enrollment_date": "15/08/2020",
+      "email": "dev.anand@campus.edu"
+    },
+    {
+      "student_id": "S027",
+      "name": "Pallavi Shetty",
+      "department": "Civil",
+      "age": "19",
+      "marks": "84",
+      "attendance": "90",
+      "enrollment_date": "Aug 20, 2022",
+      "email": "pallavi.shetty@campus.edu"
+    },
+    {
+      "student_id": "S028",
+      "name": "Gaurav Saxena",
+      "department": "Electronics",
+      "age": "21",
+      "marks": "73",
+      "attendance": "78",
+      "enrollment_date": "2022-13-45",
+      "email": "gaurav.saxena@campus.edu"
+    },
+    {
+      "student_id": "S029",
+      "name": "Simran Kaur",
+      "department": "Computer Science",
+      "age": "18",
+      "marks": "92",
+      "attendance": "97",
+      "enrollment_date": "2031-01-10",
+      "email": "simran.kaur@campus.edu"
+    },
+    {
+      "student_id": "S030",
+      "name": "priya nair",
+      "department": "Biotechnology",
+      "age": "20",
+      "marks": "70",
+      "attendance": "83",
+      "enrollment_date": "2021-08-24",
+      "email": "PRIYA.NAIR@CAMPUS.EDU"
+    },
+    {
+      "student_id": "S031",
+      "name": "  Amit   Kumar ",
+      "department": "Mechanical",
+      "age": "22",
+      "marks": "65",
+      "attendance": "74",
+      "enrollment_date": "2020-08-25",
+      "email": "amit.kumar@campus.edu"
+    },
+    {
+      "student_id": "S032",
+      "name": "",
+      "department": "Civil",
+      "age": "21",
+      "marks": "68",
+      "attendance": "76",
+      "enrollment_date": "2020-08-26",
+      "email": "unknown.student@campus.edu"
+    },
+    {
+      "student_id": "S003",
+      "name": "Rohan Mehta",
+      "department": "Mechanical",
+      "age": "21",
+      "marks": "67.25",
+      "attendance": "75",
+      "enrollment_date": "2020-08-03",
+      "email": "rohan.mehta@campus.edu"
+    },
+    {
+      "student_id": "S034",
+      "name": "Diya Patel",
+      "department": "Electronics",
+      "age": "20",
+      "marks": "86",
+      "attendance": "88.5",
+      "enrollment_date": "2021-08-02",
+      "email": "diya.patel@campus.edu"
+    },
+    {
+      "student_id": "S035",
+      "name": "Omkar Naik",
+      "department": "Computer Science",
+      "age": "25",
+      "marks": "82",
+      "attendance": "91",
+      "enrollment_date": "2018-08-27",
+      "email": "omkar.naik@campus.edu"
+    },
+    {
+      "student_id": "S036",
+      "name": "Charu Lata",
+      "department": "Biotechnology",
+      "age": "19",
+      "marks": "75",
+      "attendance": "85",
+      "enrollment_date": "2023-08-28",
+      "email": "charu.lata@campus.edu"
+    },
+    {
+      "student_id": "S037",
+      "name": "Zoya Khan",
+      "department": "Electronics",
+      "age": "20",
+      "marks": "88",
+      "attendance": "95",
+      "enrollment_date": "2022-08-29",
+      "email": "zoya.khan@campus.edu"
+    },
+    {
+      "student_id": "S038",
+      "name": "Ishaan Bhatt",
+      "department": "Civil",
+      "age": "22",
+      "marks": "61",
+      "attendance": "72",
+      "enrollment_date": "2019-08-30",
+      "email": "ishaan.bhatt@campus.edu"
+    },
+    {
+      "student_id": "S039",
+      "name": "Tara Sen",
+      "department": "Mechanical",
+      "age": "19",
+      "marks": "94",
+      "attendance": "98",
+      "enrollment_date": "2024-08-31",
+      "email": "tara.sen@campus.edu"
+    },
+    {
+      "student_id": "S040",
+      "name": "Nikhil Rao",
+      "department": "Computer Science",
+      "age": "21",
+      "marks": "",
+      "attendance": "",
+      "enrollment_date": "2021-09-01",
+      "email": "nikhil.rao@campus.edu"
+    }
+  ]
+}

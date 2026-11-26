@@ -1,0 +1,5 @@
+# Terminal app needs only matplotlib (charts). Everything else is the Python standard library.
+matplotlib>=3.7
+# Optional modern GUI:
+streamlit>=1.40
+pandas>=2.0

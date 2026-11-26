@@ -1,0 +1,41 @@
+student_id,name,department,age,marks,attendance,enrollment_date,email
+S001,Aarav Sharma,Computer Science,19,78.5,92,2022-08-01,aarav.sharma@campus.edu
+S002,Diya Patel,Electronics,20,85,88.5,2021-08-02,diya.patel@campus.edu
+S003,Rohan Mehta,Mechanical,21,67.25,75,2020-08-03,rohan.mehta@campus.edu
+S004,Ananya Iyer,Civil,18,91,96,2023-08-01,ananya.iyer@campus.edu
+S005,Kabir Singh,Biotechnology,22,58,70,2019-08-05,kabir.singh@campus.edu
+S006,Meera Nair,Computer Science,16,88,94,2024-08-01,meera.nair@campus.edu
+S007,Vikram Rao,Electronics,,72,81,2022-08-03,vikram.rao@campus.edu
+S008,Sneha Reddy,Civil,23,100,100,2020-08-04,sneha.reddy@campus.edu
+S009,Arjun Das,Mechanical,60,45,60,2018-08-06,arjun.das@campus.edu
+S010,Isha Gupta,Biotechnology,19,0,0,2023-08-07,isha.gupta@campus.edu
+S011,Neha Kulkarni,comp sci,20,81,90,2021-08-09,neha.kulkarni@campus.edu
+S012,Aditya Joshi,Computer Science,21,N/A,85,2020-08-10,aditya.joshi@campus.edu
+S013,Pooja Menon,CS,19,76,89,2022-08-11,pooja.menon@campus.edu
+S014,Karan Malhotra,Electronics ,22,69,77,2019-08-12,karan.malhotra@campus.edu
+S015,Tanvi Desai,ELECTRONICS,20,83,91,2021-08-13,tanvi.desai@campus.edu
+S016,Siddharth Bose,Mechancial,21,62,73,2020-08-14,siddharth.bose@campus.edu
+S017,Riya Kapoor,Civil,twenty,74,84,2021-08-15,riya.kapoor@campus.edu
+S018,Harsh Vardhan,Biotechnology,0,66,79,2022-08-16,harsh.vardhan@campus.edu
+S019,Lakshmi Narayan,Computer Science,24,89,93,2019-08-17,
+S020,Manish Tiwari,Mechanical,150,71,80,2018-08-18,manish.tiwari@campus.edu
+S021,Shruti Banerjee,Civil,20,105,87,2021-08-19,shruti.banerjee@campus.edu
+S022,Yash Chopra,Electronics,21,-5,82,2020-08-20,yash.chopra@campus.edu
+S023,Nandini Pillai,,19,77,86,2023-08-21,nandini.pillai@campus.edu
+S024,Rahul Verma,Computer Science,22,64,92%,2019-08-22,rahul.verma@
+S025,Kavya Hegde,Biotechnology,20,79,101,2021-08-23,kavya.hegde@campus.edu
+S026,Dev Anand,Mechanical,23,57,68,15/08/2020,dev.anand@campus.edu
+S027,Pallavi Shetty,Civil,19,84,90,"Aug 20, 2022",pallavi.shetty@campus.edu
+S028,Gaurav Saxena,Electronics,21,73,78,2022-13-45,gaurav.saxena@campus.edu
+S029,Simran Kaur,Computer Science,18,92,97,2031-01-10,simran.kaur@campus.edu
+S030,priya nair,Biotechnology,20,70,83,2021-08-24,PRIYA.NAIR@CAMPUS.EDU
+S031,  Amit   Kumar ,Mechanical,22,65,74,2020-08-25,amit.kumar@campus.edu
+S032,,Civil,21,68,76,2020-08-26,unknown.student@campus.edu
+S003,Rohan Mehta,Mechanical,21,67.25,75,2020-08-03,rohan.mehta@campus.edu
+S034,Diya Patel,Electronics,20,86,88.5,2021-08-02,diya.patel@campus.edu
+S035,Omkar Naik,Computer Science,25,82,91,2018-08-27,omkar.naik@campus.edu
+S036,Charu Lata,Biotechnology,19,75,85,2023-08-28,charu.lata@campus.edu
+S037,Zoya Khan,Electronics,20,88,95,2022-08-29,zoya.khan@campus.edu
+S038,Ishaan Bhatt,Civil,22,61,72,2019-08-30,ishaan.bhatt@campus.edu
+S039,Tara Sen,Mechanical,19,94,98,2024-08-31,tara.sen@campus.edu
+S040,Nikhil Rao,Computer Science,21,,,2021-09-01,nikhil.rao@campus.edu

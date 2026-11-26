@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+data/working_data.json
+data/working_data.json.corrupt-*
+data/history.json
+reports/*
+!reports/.gitkeep
